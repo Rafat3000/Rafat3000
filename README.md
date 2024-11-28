@@ -11,7 +11,7 @@
 
 - 👨‍💻 All 'of my projects are available at [https://www.kaggle.com/rafatalzakout](https://www.kaggle.com/rafatalzakout)
 
-- 📫 How to reach me **rafat.j.alzakout@hotmail.com**
+- 📫 How to reach me **rafat.j.alzakout1@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
